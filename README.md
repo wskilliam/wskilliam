@@ -16,7 +16,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/william-rodrigues-04bb82190/"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/linkedin.png"/></a> 
 &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="william.silvar96@gmail.com"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/gmail-new.png"/></a> 
+  <a href="mailto:william.silvar96@gmail.com"><img width="40px" alt="LinkedIn" title="LinkedIn" src="https://img.icons8.com/color/48/gmail-new.png"/></a> 
 </p>
 
 ## 🤖 Linguagens e Tecnologias:
